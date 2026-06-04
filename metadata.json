@@ -1,0 +1,6 @@
+{
+  "name": "FORGE Athletics",
+  "description": "A single-page, premium dark industrial-luxury gym website for FORGE Athletics. Built with React, Tailwind CSS, Three.js, and high-performance interactive elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
